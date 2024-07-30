@@ -50,8 +50,4 @@ It looks like you’ve laid out a comprehensive setup guide for your project. He
 
 This should set up your development environment with both backend and frontend running concurrently. If you encounter any issues, let me know via whatsapp +254745566505
 
-git remote add origin https://github.com/felixomundi/medsched.git
 
-
-git rm --cached Comprehend.docx
-git rm --cached Backups/Comprehend.docx
