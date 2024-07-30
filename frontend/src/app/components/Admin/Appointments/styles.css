@@ -1,0 +1,10 @@
+/* styles.css */
+.modal-footer {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .btn-sm {
+    margin-right: 5px;
+  }
+  
