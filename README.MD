@@ -1,4 +1,4 @@
-It looks like you’ve laid out a comprehensive setup guide for your project. Here's a condensed version with all the steps in order:
+Comprehensive setup guide for this project. Here's a condensed version with all the steps in order:
 
 1. **Install Wamp Server**
    - Download and install Wamp Server from [WampServer's official website](https://www.wampserver.com/en/).
@@ -47,6 +47,13 @@ It looks like you’ve laid out a comprehensive setup guide for your project. He
 
 12. **Access Your Project**
     - Open a web browser and go to: [http://localhost:3000](http://localhost:3000).
+
+
+13. **Login details**
+    - Admin: admin.example@gmail.com | Pa123456.
+    - Doctor: doctor.doe@gmail.com | Pa123456. 
+    - Patient: patient.doe@gmail.com | Pa123456.    
+    - Register or create an account as doctor or patient
 
 This should set up your development environment with both backend and frontend running concurrently. If you encounter any issues, let me know via whatsapp +254745566505
 
